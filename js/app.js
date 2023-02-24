@@ -2,20 +2,20 @@
 var areasOfResponsibility = {
     "Objectives": ["objectives"],
     "Key Deliverables": ["deliverables"],
-    "KPI's": ["KPI", "key performance indicator"],
-    "Office Operations": ["front desk", "receptionist", "office procedure", "supplies", "equipment", "policies"],
-    "Daily Management of Chamber Office": ["office management"],
-    "Export Certification": ["certificate", "export documents", "export", "import", "COO", "COF", "CFS", "certificate", "Certificate of Origin", "cert"],
-    "Accounts and Finance": ["pay","payment", "Xero", "accounts", "receivable", "payable", "invoice", "GST", "creditors", "bills"],
-    "Marketing & Graphic Design": ["branding", "social media", "competitors", "marketing campaigns", "promotional material"],
-    "Computers & IT": ["IT processes", "hardware", "system", "IT", "tech", "CRM", "software", "troubleshooting", "website"],
-    "Membership": ["induction", "member interactions", "member", "membership renewal"],
-    "Chamber Events": ["event logistics", "technical equipment", "representing the Chamber"],
-    "Health & Safety Officer": ["Health & Safety", "compliance", "risk"],
-    "Facilities Management": ["building maintenance", "janitorial services", "property management", "groundskeeping"],
-    "Human Resources": ["recruiting", "onboarding", "employee relations", "payroll", "benefits administration", "performance management"],
-    "Project Management": ["planning", "budgeting", "scheduling", "coordination", "stakeholder management"],
-    "Procurement": ["sourcing", "vendor management", "contract negotiation", "inventory management"]
+    "KPI's": ["KPI", "key performance indicator", "performance metrics", "performance indicators", "performance measures"],
+    "Office Operations": ["front desk", "receptionist", "office procedure", "supplies", "equipment", "policies", "administrative tasks", "office administration", "office procedures"],
+    "Daily Management of Chamber Office": ["office management", "office administration", "office oversight", "office supervision"],
+    "Export Certification": ["certificate", "export documents", "export", "import", "COO", "COF", "CFS", "certificate", "Certificate of Origin", "cert", "export authorization", "export permit"],
+    "Accounts and Finance": ["pay","payment", "Xero", "accounts", "receivable", "payable", "invoice", "GST", "creditors", "bills", "financial management", "financial administration", "bookkeeping", "accounting"],
+    "Marketing & Graphic Design": ["branding", "social media", "competitors", "marketing campaigns", "promotional material", "advertising", "publicity", "graphic design", "brand management"],
+    "Computers & IT": ["IT processes", "hardware", "system", "IT", "tech", "CRM", "software", "troubleshooting", "website", "print", "printer", "information technology", "computer systems", "computer hardware", "software systems"],
+    "Membership": ["induction", "member interactions", "member", "membership renewal", "member engagement", "member retention", "member services"],
+    "Chamber Events": ["event logistics", "technical equipment", "representing the Chamber", "event planning", "event coordination", "event management"],
+    "Health & Safety Officer": ["Health & Safety", "compliance", "risk", "occupational health and safety", "workplace safety"],
+    "Facilities Management": ["building maintenance", "janitorial services", "property management", "groundskeeping", "facility maintenance", "property maintenance"],
+    "Human Resources": ["recruiting", "onboarding", "employee relations", "payroll", "benefits administration", "performance management", "personnel management", "staff management"],
+    "Project Management": ["planning", "budgeting", "scheduling", "coordination", "stakeholder management", "project planning", "project coordination", "project oversight"],
+    "Procurement": ["sourcing", "order", "vendor management", "contract negotiation", "inventory management", "procurement management", "purchasing", "supply chain management"]
   };
   
   function checkScope() {
