@@ -8,7 +8,7 @@ var areasOfResponsibility = {
     "Export Certification": ["certificate", "export documents", "export", "import", "COO", "COF", "CFS", "certificate", "Certificate of Origin", "cert"],
     "Accounts and Finance": ["pay","payment", "Xero", "accounts", "receivable", "payable", "invoice", "GST", "creditors", "bills"],
     "Marketing & Graphic Design": ["branding", "social media", "competitors", "marketing campaigns", "promotional material"],
-    "Computers & IT": ["IT processes", "hardware", "system", "IT", "tech" "CRM", "software", "troubleshooting", "website"],
+    "Computers & IT": ["IT processes", "hardware", "system", "IT", "tech", "CRM", "software", "troubleshooting", "website"],
     "Membership": ["induction", "member interactions", "member", "membership renewal"],
     "Chamber Events": ["event logistics", "technical equipment", "representing the Chamber"],
     "Health & Safety Officer": ["Health & Safety", "compliance", "risk"],
